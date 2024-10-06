@@ -1,13 +1,4 @@
-# Building Style Classification and Color Analysis
-
-This repository is dedicated to exploring and understanding architectural heritage through two main phases: classification of streetscape architecture and subsequent color analysis of categorized images.
-
-## Overview
-
-The project is divided into two primary components:
-
-1. **Building Style Classification** - Using a classification model, we categorize streetscape architectural images. The model is trained to identify different architectural styles and categories, which facilitates a detailed interpretative analysis of the classifications.
-2. **Color Analysis** - After classification, we conduct a comprehensive color analysis on the images. This analysis helps in exploring the relationships and distinctions between different styles and districts. The goal is to enhance our understanding of how colors contribute to the preservation of architectural heritage.
+# Color Analysis of Singapore Shophouses
 
 ## Getting Started
 
