@@ -21,6 +21,19 @@ cd your-repository
 ```
 pip install -r requirements.txt
 ```
+### Dataset Acquisition
+
+To obtain the datasets used in this project, please visit the following link:
+
+[Download Dataset](https://drive.google.com/drive/folders/17HRaJwDykrcDPTvyUv12mjvVfu0BXLLQ?usp=sharing)
+
+The datasets include:
+
+1. **Ten pairs of shophouse photos taken before and after 1989**
+2. **Three groups of GSV images featuring three historical styles**
+3. **3103 GSV images distinguished by three districts and 80 streets**
+4. **The spatial distribution data of the core areas demarcated by the URA**
+5. **Data on types of ethnic languages displayed on street billboards**
 
 ## Usage
 You can view and run specific code modules based on different requirements.
